@@ -30,8 +30,5 @@ while (true)
     sw.WriteLine(message1);
 
     serverAnswer = sr.ReadLine();
-
-
-
     Console.WriteLine("Your answer is: " + serverAnswer);
 }
